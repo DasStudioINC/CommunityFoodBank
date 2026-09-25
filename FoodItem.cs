@@ -20,14 +20,14 @@ namespace CommunityFoodBank
             }
         }
 
-        private string foodName;
+        private string foodName = "";
 
         public string FoodName
         {
             get { return foodName; }
             set
             {
-                if (string.IsNullOrEmpty(value))
+                if (!string.IsNullOrEmpty(value))
                     foodName = value;
             }
         }

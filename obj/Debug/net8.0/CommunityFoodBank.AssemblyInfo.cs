@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommunityFoodBank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60db739e7074f19666c9240b5763cbdecdb73efb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fd2ff2aa10becfd2b84f61053148f404fd3ed62")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommunityFoodBank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommunityFoodBank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

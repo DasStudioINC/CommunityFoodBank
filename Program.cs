@@ -1,4 +1,6 @@
-﻿namespace CommunityFoodBank
+﻿using System.Runtime.InteropServices;
+
+namespace CommunityFoodBank
 {
     internal class Program
     {
@@ -64,6 +66,8 @@
             // Chnaged for more detail to show total number of items
             Console.WriteLine($"Number of inventory units: {items.Sum(e => e.Quantity)}");
 
+            // Get lowest count of item
+            Console.WriteLine($"Lowest Item Quant Name: {items.OrderByDescending(e => e.Quantity).First().FoodName}");
         }
 
     }
