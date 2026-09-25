@@ -1,0 +1,15 @@
+C:\Users\zackd\source\repos\CommunityFoodBank\obj\Debug\net8.0\CommunityFoodBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zackd\source\repos\CommunityFoodBank\obj\Debug\net8.0\CommunityFoodBank.AssemblyInfoInputs.cache
+C:\Users\zackd\source\repos\CommunityFoodBank\obj\Debug\net8.0\CommunityFoodBank.AssemblyInfo.cs
+C:\Users\zackd\source\repos\CommunityFoodBank\obj\Debug\net8.0\CommunityFoodBank.csproj.CoreCompileInputs.cache
+C:\Users\zackd\source\repos\CommunityFoodBank\obj\Debug\net8.0\CommunityFoodBank.sourcelink.json
+C:\Users\zackd\source\repos\CommunityFoodBank\bin\Debug\net8.0\CommunityFoodBank.exe
+C:\Users\zackd\source\repos\CommunityFoodBank\bin\Debug\net8.0\CommunityFoodBank.deps.json
+C:\Users\zackd\source\repos\CommunityFoodBank\bin\Debug\net8.0\CommunityFoodBank.runtimeconfig.json
+C:\Users\zackd\source\repos\CommunityFoodBank\bin\Debug\net8.0\CommunityFoodBank.dll
+C:\Users\zackd\source\repos\CommunityFoodBank\bin\Debug\net8.0\CommunityFoodBank.pdb
+C:\Users\zackd\source\repos\CommunityFoodBank\obj\Debug\net8.0\CommunityFoodBank.dll
+C:\Users\zackd\source\repos\CommunityFoodBank\obj\Debug\net8.0\refint\CommunityFoodBank.dll
+C:\Users\zackd\source\repos\CommunityFoodBank\obj\Debug\net8.0\CommunityFoodBank.pdb
+C:\Users\zackd\source\repos\CommunityFoodBank\obj\Debug\net8.0\CommunityFoodBank.genruntimeconfig.cache
+C:\Users\zackd\source\repos\CommunityFoodBank\obj\Debug\net8.0\ref\CommunityFoodBank.dll
