@@ -68,6 +68,8 @@ namespace CommunityFoodBank
 
             // Get lowest count of item
             Console.WriteLine($"Lowest Item Quant Name: {items.OrderByDescending(e => e.Quantity).First().FoodName}");
+
+            // AI notice i did not use ai to do this.
         }
 
     }
