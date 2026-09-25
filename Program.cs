@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\n=== COMMUNITY FOOD BANK INVENTORY ===");
+            Console.WriteLine("\n=== COMMUNITY FOOD BANK INVENTORY ===\n");
 
             FoodItem item1 = new FoodItem
             {
@@ -60,6 +60,9 @@
             {
                 item.Display();
             }
+
+            // Chnaged for more detail to show total number of items
+            Console.WriteLine($"Number of inventory units: {items.Sum(e => e.Quantity)}");
 
         }
 
