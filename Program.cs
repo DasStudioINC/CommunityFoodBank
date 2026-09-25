@@ -69,6 +69,15 @@ namespace CommunityFoodBank
             // Get lowest count of item
             Console.WriteLine($"Lowest Item Quant Name: {items.OrderByDescending(e => e.Quantity).First().FoodName}");
 
+            // low stock
+            if (true)
+            {
+                System.Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine($"ERROR Low stock {item1.FoodName}");
+                System.Console.ForegroundColor = ConsoleColor.White;
+            }
+                
+
             // AI notice i did not use ai to do this.
         }
 
